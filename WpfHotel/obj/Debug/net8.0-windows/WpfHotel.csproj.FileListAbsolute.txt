@@ -1,0 +1,310 @@
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel_MarkupCompile.cache
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel_MarkupCompile.lref
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\WpfHotel.exe
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\WpfHotel.deps.json
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\WpfHotel.runtimeconfig.json
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\WpfHotel.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\WpfHotel.pdb
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.g.resources
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.AssemblyInfo.cs
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.csproj.Up2Date
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\refint\WpfHotel.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.pdb
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.genruntimeconfig.cache
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\ref\WpfHotel.dll
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\pages\PageCustomers.g.cs
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\pages\PageRooms.g.cs
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\pages\PageServices.g.cs
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\pages\PageCustomers.baml
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\pages\PageRooms.baml
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\pages\PageServices.baml
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\WindowLogin.g.cs
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\WindowLogin.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\refint\WpfHotel.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.pdb
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.csproj.AssemblyReference.cache
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\pages\PageCustomers.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\pages\PageRooms.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\pages\PageServices.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\WindowLogin.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel_MarkupCompile.cache
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel_MarkupCompile.lref
+C:\Users\admin\Desktop\Рожок\WpfHotel\obj\Debug\net8.0-windows\App.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\WpfHotel.exe
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\WpfHotel.deps.json
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\WpfHotel.runtimeconfig.json
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\WpfHotel.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\WpfHotel.pdb
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\App.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\pages\PageCustomers.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\pages\PageRooms.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\pages\PageServices.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\WindowLogin.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.g.resources
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.AssemblyInfoInputs.cache
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.AssemblyInfo.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.csproj.CoreCompileInputs.cache
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.csproj.Up2Date
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\WpfHotel.genruntimeconfig.cache
+C:\Users\rozhk\OneDrive\Рабочий стол\Рожок\WpfHotel\obj\Debug\net8.0-windows\ref\WpfHotel.dll

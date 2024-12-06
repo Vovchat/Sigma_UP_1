@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\\u0420\u043E\u0436\u043E\u043A\\WpfLibHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{799F7000-1FCE-428C-998A-36FB7DB33F9D}|WpfLibHotel.csproj|c:\\users\\admin\\desktop\\\u0440\u043E\u0436\u043E\u043A\\wpflibhotel\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799F7000-1FCE-428C-998A-36FB7DB33F9D}|WpfLibHotel.csproj|solutionrelative:service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799F7000-1FCE-428C-998A-36FB7DB33F9D}|WpfLibHotel.csproj|c:\\users\\admin\\desktop\\\u0440\u043E\u0436\u043E\u043A\\wpflibhotel\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799F7000-1FCE-428C-998A-36FB7DB33F9D}|WpfLibHotel.csproj|solutionrelative:hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799F7000-1FCE-428C-998A-36FB7DB33F9D}|WpfLibHotel.csproj|c:\\users\\admin\\desktop\\\u0440\u043E\u0436\u043E\u043A\\wpflibhotel\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799F7000-1FCE-428C-998A-36FB7DB33F9D}|WpfLibHotel.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799F7000-1FCE-428C-998A-36FB7DB33F9D}|WpfLibHotel.csproj|c:\\users\\admin\\desktop\\\u0440\u043E\u0436\u043E\u043A\\wpflibhotel\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799F7000-1FCE-428C-998A-36FB7DB33F9D}|WpfLibHotel.csproj|solutionrelative:room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799F7000-1FCE-428C-998A-36FB7DB33F9D}|WpfLibHotel.csproj|c:\\users\\admin\\desktop\\\u0440\u043E\u0436\u043E\u043A\\wpflibhotel\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799F7000-1FCE-428C-998A-36FB7DB33F9D}|WpfLibHotel.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u0420\u043E\u0436\u043E\u043A\\WpfLibHotel\\Service.cs",
+              "RelativeDocumentMoniker": "Service.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u0420\u043E\u0436\u043E\u043A\\WpfLibHotel\\Service.cs",
+              "RelativeToolTip": "Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:05:22.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u0420\u043E\u0436\u043E\u043A\\WpfLibHotel\\Room.cs",
+              "RelativeDocumentMoniker": "Room.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u0420\u043E\u0436\u043E\u043A\\WpfLibHotel\\Room.cs",
+              "RelativeToolTip": "Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:04:59.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u0420\u043E\u0436\u043E\u043A\\WpfLibHotel\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u0420\u043E\u0436\u043E\u043A\\WpfLibHotel\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:20:56.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u0420\u043E\u0436\u043E\u043A\\WpfLibHotel\\HotelDbContext.cs",
+              "RelativeDocumentMoniker": "HotelDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u0420\u043E\u0436\u043E\u043A\\WpfLibHotel\\HotelDbContext.cs",
+              "RelativeToolTip": "HotelDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:52:24.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u0420\u043E\u0436\u043E\u043A\\WpfLibHotel\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u0420\u043E\u0436\u043E\u043A\\WpfLibHotel\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:40:34.941Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Рожок\WpfLibHotel\bin\Debug\net8.0-windows\WpfLibHotel.deps.json
+C:\Users\admin\Desktop\Рожок\WpfLibHotel\bin\Debug\net8.0-windows\WpfLibHotel.runtimeconfig.json
+C:\Users\admin\Desktop\Рожок\WpfLibHotel\bin\Debug\net8.0-windows\WpfLibHotel.dll
+C:\Users\admin\Desktop\Рожок\WpfLibHotel\bin\Debug\net8.0-windows\WpfLibHotel.pdb
+C:\Users\admin\Desktop\Рожок\WpfLibHotel\obj\Debug\net8.0-windows\WpfLibHotel.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Рожок\WpfLibHotel\obj\Debug\net8.0-windows\WpfLibHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Рожок\WpfLibHotel\obj\Debug\net8.0-windows\WpfLibHotel.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Рожок\WpfLibHotel\obj\Debug\net8.0-windows\WpfLibHotel.AssemblyInfo.cs
+C:\Users\admin\Desktop\Рожок\WpfLibHotel\obj\Debug\net8.0-windows\WpfLibHotel.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Рожок\WpfLibHotel\obj\Debug\net8.0-windows\WpfLibHotel.dll
+C:\Users\admin\Desktop\Рожок\WpfLibHotel\obj\Debug\net8.0-windows\refint\WpfLibHotel.dll
+C:\Users\admin\Desktop\Рожок\WpfLibHotel\obj\Debug\net8.0-windows\WpfLibHotel.pdb
+C:\Users\admin\Desktop\Рожок\WpfLibHotel\obj\Debug\net8.0-windows\WpfLibHotel.genruntimeconfig.cache
+C:\Users\admin\Desktop\Рожок\WpfLibHotel\obj\Debug\net8.0-windows\ref\WpfLibHotel.dll

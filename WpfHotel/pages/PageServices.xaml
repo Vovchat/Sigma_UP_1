@@ -1,0 +1,142 @@
+﻿<Page x:Class="WpfHotel.pages.PageServices"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfHotel.pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="1000"
+      Title="PageServices">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1.2*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Vertical" 
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Center">
+            <StackPanel Orientation="Vertical"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center">
+                <TextBlock Text="Заселён с"
+                           Foreground="AliceBlue"/>
+                <DatePicker Width="240" Height="40"
+                 Name="dtpDateStart"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center">
+                <TextBlock Text="Выселение"
+                           Foreground="AliceBlue"/>
+                <DatePicker Width="240" Height="40"
+                Name="dtpDateOver"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center">
+                <TextBlock Text="Номер комнаты"
+                           Foreground="AliceBlue"/>
+                <ComboBox Width="240" Height="40"
+                Name="cmbRoom"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center">
+                <TextBlock Text="Имя заселяемого"
+                           Foreground="AliceBlue"/>
+                <ComboBox Width="240" Height="40"
+                Name="cmbCustomer"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button Name="btnAddS" Content="Добавить" 
+                        Click="btnAddS_Click"
+                        Width="100" Height="35"/>
+                <Button Name="btnRedS" Content="Изменить"
+                        Click="btnRedS_Click"
+                        Width="100" Height="35"/>
+            </StackPanel>
+            <TextBlock HorizontalAlignment="Center"
+                Text="-=-=-=-=-=-=Поиск=-=-=-=-=-=-"
+                       Foreground="AliceBlue"/>
+            <StackPanel Orientation="Vertical">
+                <StackPanel Orientation="Horizontal" Margin="2">
+                    <TextBlock Text="Дата начала" Width="125"
+                               Foreground="AliceBlue"/>
+                    <DatePicker Width="105" Height="40"
+                              Name="dtpFltDS"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="2">
+                    <TextBlock Text="Дата кончала" Width="125"
+                               Foreground="AliceBlue"/>
+                    <DatePicker Width="105" Height="40"
+                              Name="dtpFltDO"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="2">
+                    <TextBlock Text="Номер комнаты" Width="125"
+                               Foreground="AliceBlue"/>
+                    <TextBox Width="105" Height="40"
+                              Name="txtFltRN"/>
+                </StackPanel>
+            </StackPanel>
+            <TextBlock HorizontalAlignment="Center" Foreground="AliceBlue"
+                       Text="-=-=-=-=-=-=Прочее=-=-=-=-=-=-"/>
+            <StackPanel Orientation="Horizontal">
+                <Button Name="btnDelS" Content="Удалить"
+                        Click="btnDelS_Click"
+                        Width="100" Height="35"/>
+                <Button Name="btnFlt" Content="Найти"
+                        Click="btnFlt_Click"
+                        Width="100" Height="35"/>
+            </StackPanel>
+        </StackPanel>
+        <ListView Name="LVService" BorderBrush="Black" 
+                      Grid.Column="1">
+            <ListView.Background>
+                <ImageBrush ImageSource="/pages/img2.png"/>
+            </ListView.Background>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Margin="5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition MinWidth="50" Width="*"/>
+                            <ColumnDefinition MinWidth="110" Width="*"/>
+                            <ColumnDefinition MinWidth="120" Width="*"/>
+                            <ColumnDefinition MinWidth="50" Width="*"/>
+                            <ColumnDefinition MinWidth="80" Width="*"/>
+                            <ColumnDefinition MinWidth="270" Width="*"/>
+                            <ColumnDefinition MinWidth="40" Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0"
+                        Text="{Binding IdServices}"
+                        FontSize="16"
+                        Margin="5" Foreground="AliceBlue"/>
+                        <TextBlock Grid.Column="1"
+                        Text="{Binding DateStart}"
+                        FontSize="16"
+                        Margin="5" Foreground="AliceBlue"/>
+                        <TextBlock Grid.Column="2"
+                        Text="{Binding DateOver}"
+                        FontSize="16"
+                        Margin="5" Foreground="AliceBlue"/>
+                        <TextBlock Grid.Column="3"
+                        Text="{Binding Days}"
+                        FontSize="16"
+                        Margin="5" Foreground="AliceBlue"/>
+                        <TextBlock Grid.Column="4"
+                        Text="{Binding Sum}"
+                        FontSize="16"
+                        Margin="5" Foreground="AliceBlue"/>
+                        <TextBlock Grid.Column="5"
+                        Text="{Binding CustomerName}"
+                        FontSize="16"
+                        Margin="5" Foreground="AliceBlue"/>
+                        <TextBlock Grid.Column="6"
+                        Text="{Binding RoomNumber}"
+                        FontSize="16"
+                        Margin="5" Foreground="AliceBlue"/>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Page>

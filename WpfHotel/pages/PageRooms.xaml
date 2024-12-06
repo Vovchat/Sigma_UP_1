@@ -1,0 +1,90 @@
+﻿<Page x:Class="WpfHotel.pages.PageRooms"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfHotel.pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="1000"
+      Title="PageRooms">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1.2*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Vertical" 
+                    HorizontalAlignment="Center" 
+                    VerticalAlignment="Center">
+            <StackPanel Orientation="Vertical"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Center">
+                <TextBlock Text="Номер/название комнаты"
+                           Foreground="AliceBlue"/>
+                <TextBox Width="240" Height="40"
+                         Name="txtNumber"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Center">
+                <TextBlock Text="Тип комнаты"
+                           Foreground="AliceBlue"/>
+                <ComboBox Width="240" Height="40"
+                         Name="cmbType"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Center">
+                <TextBlock Text="Статус доступности"
+                           Foreground="AliceBlue"/>
+                <ComboBox Width="240" Height="40" 
+                          Name="cmbStatus"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button Name="btnDelR" Content="Удалить"
+                        Click="btnDelR_Click"
+                        Width="100" Height="35"/>
+                <Button Name="btnAddR" Content="Добавить"
+                        Click="btnAddR_Click"
+                        Width="100" Height="35"/>
+            </StackPanel>
+        </StackPanel>
+        <ListView Name="LVRooms" BorderBrush="Black" 
+                  Grid.Column="1">
+            <ListView.Background>
+                <ImageBrush ImageSource="/pages/img2.png"/>
+            </ListView.Background>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Margin="5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition MinWidth="50" Width="*"/>
+                            <ColumnDefinition MinWidth="60" Width="*"/>
+                            <ColumnDefinition MinWidth="70" Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0"
+                                   Text="{Binding IdRooms}"
+                                   FontSize="16"
+                                   Margin="5" 
+                                   Foreground="AliceBlue"/>
+                        <TextBlock Grid.Column="1"
+                                   Text="{Binding Number}"
+                                   FontSize="16"
+                                   Margin="5" 
+                                   Foreground="AliceBlue"/>
+                        <TextBlock Grid.Column="2"
+                                   Text="{Binding Type}"
+                                   FontSize="16"
+                                   Margin="5" 
+                                   Foreground="AliceBlue"/>
+                        <TextBlock Grid.Column="3"
+                                   Text="{Binding Status}"
+                                   FontSize="16"
+                                   Margin="5" 
+                                   Foreground="AliceBlue"/>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Page>
